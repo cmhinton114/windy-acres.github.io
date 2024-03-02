@@ -1,0 +1,70 @@
+header {
+    align-items: center;
+    color: #3B4539;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: space-evenly;
+    padding: 22px;
+}
+
+body {
+    background-image: (windy-acres-trans.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+footer {
+    align-items: center;
+    color: #464C58;
+    justify-content: space-evenly;
+    padding: 428px;
+
+}
+
+menu {
+    padding: 0;
+}
+
+.menu-item {
+    list-style-type: none;
+    text-decoration: none;
+    color: #3B4539;
+}
+
+#menu-tabs {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    margin: 0px;
+}
+
+.centered {
+    text-align: center;
+}
+
+/*#inperson {
+    background-color: green;
+    color: white;
+    border-radius: 14%;
+
+}
+
+#online {
+    background-color: purple;
+    color: white;
+    border-radius: 14%;
+
+}
+
+#budget {
+    background-color: purple;
+    color: white;
+    border-radius: 14%;
+
+}*/
